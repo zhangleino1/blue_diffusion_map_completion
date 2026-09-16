@@ -11,8 +11,6 @@
 - **Spring 数据集**：覆盖 5 行 × 26 列 = 130 个测量点，25 个 BLE AP，总计 72 万条 RSS 采样。这是完整的。
 - **Winter 数据集**：只采了中间第 3 行的 26 个点，其余 4 行全部缺失。
 
-B. Bertalanič, G. Morano and G. Cerar, "LOG-a-TEC Testbed outdoor localization using BLE beacons," 2022 International Balkan Conference on Communications and Networking (BalkanCom), Sarajevo, Bosnia and Herzegovina, 2022, pp. 115-119, doi: 10.1109/BalkanCom55633.2022.9900607. keywords: {Location awareness;Bluetooth;Machine learning;Fingerprint recognition;Batteries;Global Positioning System;Strain;localization;fingerprinting;BLE;LOG-a-TEC;machine learning},
-
 # 室内定位算法定制
 如果你也想定制自己的室内定位算法，请联系我！
 
@@ -156,5 +154,11 @@ python diffusion_map_completion.py --skip-train
 ---
 
 *数据集来源：[Log-a-TEC BLE Fingerprint Dataset](http://log-a-tec.eu/datasets-ble.html)*
+
+解压 数据.zip 即可
+
+
+B. Bertalanič, G. Morano and G. Cerar, "LOG-a-TEC Testbed outdoor localization using BLE beacons," 2022 International Balkan Conference on Communications and Networking (BalkanCom), Sarajevo, Bosnia and Herzegovina, 2022, pp. 115-119, doi: 10.1109/BalkanCom55633.2022.9900607. keywords: {Location awareness;Bluetooth;Machine learning;Fingerprint recognition;Batteries;Global Positioning System;Strain;localization;fingerprinting;BLE;LOG-a-TEC;machine learning},
+
 
 *完整代码见同目录 `diffusion_map_completion.py`*
