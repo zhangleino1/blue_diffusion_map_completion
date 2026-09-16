@@ -21,6 +21,8 @@ B. Bertalanič, G. Morano and G. Cerar, "LOG-a-TEC Testbed outdoor localization 
 ![dashang](https://github.com/zhangleino1/WIFI-SCI-Indoor-Positioning/blob/main/images/dashang.png)
 
 
+![程序员石磊](https://github.com/zhangleino1/Indoor-Map-Designer/blob/main/%E6%89%AB%E7%A0%81_%E6%90%9C%E7%B4%A2%E8%81%94%E5%90%88%E4%BC%A0%E6%92%AD%E6%A0%B7%E5%BC%8F-%E6%A0%87%E5%87%86%E8%89%B2%E7%89%88.png)
+
 
 问题就很直接了：**能不能用有限的数据，把缺失的部分补出来？**
 
