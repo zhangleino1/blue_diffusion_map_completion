@@ -13,6 +13,14 @@
 
 B. Bertalanič, G. Morano and G. Cerar, "LOG-a-TEC Testbed outdoor localization using BLE beacons," 2022 International Balkan Conference on Communications and Networking (BalkanCom), Sarajevo, Bosnia and Herzegovina, 2022, pp. 115-119, doi: 10.1109/BalkanCom55633.2022.9900607. keywords: {Location awareness;Bluetooth;Machine learning;Fingerprint recognition;Batteries;Global Positioning System;Strain;localization;fingerprinting;BLE;LOG-a-TEC;machine learning},
 
+# 室内定位算法定制
+如果你也想定制自己的室内定位算法，请联系我！
+
+喝杯咖啡，感谢开源，祝您毕业！
+
+![dashang](https://github.com/zhangleino1/WIFI-SCI-Indoor-Positioning/blob/main/images/dashang.png)
+
+
 
 问题就很直接了：**能不能用有限的数据，把缺失的部分补出来？**
 
