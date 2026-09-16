@@ -11,6 +11,9 @@
 - **Spring 数据集**：覆盖 5 行 × 26 列 = 130 个测量点，25 个 BLE AP，总计 72 万条 RSS 采样。这是完整的。
 - **Winter 数据集**：只采了中间第 3 行的 26 个点，其余 4 行全部缺失。
 
+B. Bertalanič, G. Morano and G. Cerar, "LOG-a-TEC Testbed outdoor localization using BLE beacons," 2022 International Balkan Conference on Communications and Networking (BalkanCom), Sarajevo, Bosnia and Herzegovina, 2022, pp. 115-119, doi: 10.1109/BalkanCom55633.2022.9900607. keywords: {Location awareness;Bluetooth;Machine learning;Fingerprint recognition;Batteries;Global Positioning System;Strain;localization;fingerprinting;BLE;LOG-a-TEC;machine learning},
+
+
 问题就很直接了：**能不能用有限的数据，把缺失的部分补出来？**
 
 ## 为什么选扩散模型
